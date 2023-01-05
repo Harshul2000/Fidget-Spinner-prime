@@ -10,7 +10,7 @@ This is a project where I have created a virtual fidget spinner. The fidget spin
 
 
 ## Libraries
-* Time
+* Turtle
 
 
 
